@@ -290,3 +290,4 @@ if __name__ == "__main__":
     solve_all(from_file("easy50.txt"), "easy", None)
     solve_all(from_file("top95.txt"), "hard", None)
     solve_all(from_file("hardest.txt"), "hardest", None)
+    solve_all(from_file("insane.txt"), "hardest", None)
