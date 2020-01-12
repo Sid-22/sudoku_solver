@@ -1,5 +1,4 @@
 import time
-import magic
 
 # This code is written with the help of this page: http://norvig.com/sudoku.html
 
